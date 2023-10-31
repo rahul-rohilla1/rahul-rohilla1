@@ -19,19 +19,32 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="background-color: #3CB371; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
       <strong>Python</strong>
     </div>
     <div style="background-color: #FFA500; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
       <strong>Pandas</strong>
     </div>
     <div style="background-color: #87CEEB; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" />
       <strong>Machine Learning</strong>
     </div>
     <div style="background-color: #FF69B4; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/data-analysis.png" alt="Data Analysis" />
       <strong>Data Analysis</strong>
     </div>
     <div style="background-color: #F0E68C; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/chart.png" alt="Data Visualization" />
       <strong>Data Visualization</strong>
+    </div>
+    <div style="background-color: #4682B4; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/big-data.png" alt="Big Data" />
+      <strong>Big Data</strong>
+    </div>
+    <div style="background-color: #5F9EA0; padding: 10px; margin: 5px; border-radius: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="Statistics" />
+      <strong>Statistics</strong>
     </div>
   </div>
 </div>
