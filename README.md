@@ -113,4 +113,5 @@
 </div>
 
 <div align="center">
-  <h5>Let's turn data into insights, one model at a time
+  <h5>Let's turn data into insights, one model at a time. 🚀</h5>
+</div>
