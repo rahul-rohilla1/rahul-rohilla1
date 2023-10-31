@@ -18,33 +18,20 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="background-color: #3CB371; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-      <strong>Python</strong>
+    <div style="background-color: #3776AB; padding: 10px; margin: 5px; border-radius: 10px;">
+      ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
     </div>
-    <div style="background-color: #FFA500; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
-      <strong>Pandas</strong>
+    <div style="background-color: #150458; padding: 10px; margin: 5px; border-radius: 10px;">
+      ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
     </div>
-    <div style="background-color: #87CEEB; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" />
-      <strong>Machine Learning</strong>
+    <div style="background-color: #013243; padding: 10px; margin: 5px; border-radius: 10px;">
+      ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
     </div>
-    <div style="background-color: #FF69B4; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/data-analysis.png" alt="Data Analysis" />
-      <strong>Data Analysis</strong>
+    <div style="background-color: #4479A1; padding: 10px; margin: 5px; border-radius: 10px;">
+      ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
     </div>
-    <div style="background-color: #F0E68C; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/chart.png" alt="Data Visualization" />
-      <strong>Data Visualization</strong>
-    </div>
-    <div style="background-color: #4682B4; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/big-data.png" alt="Big Data" />
-      <strong>Big Data</strong>
-    </div>
-    <div style="background-color: #5F9EA0; padding: 10px; margin: 5px; border-radius: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="Statistics" />
-      <strong>Statistics</strong>
+    <div style="background-color: #FF6F61; padding: 10px; margin: 5px; border-radius: 10px;">
+      ![Lookerstudio Logo](https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white)
     </div>
   </div>
 </div>
