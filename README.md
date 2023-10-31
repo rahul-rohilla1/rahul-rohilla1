@@ -18,21 +18,21 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="background-color: #3776AB; padding: 10px; margin: 5px; border-radius: 10px;">
-      ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-    </div>
-    <div style="background-color: #150458; padding: 10px; margin: 5px; border-radius: 10px;">
-      ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-    </div>
-    <div style="background-color: #013243; padding: 10px; margin: 5px; border-radius: 10px;">
-      ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-    </div>
-    <div style="background-color: #4479A1; padding: 10px; margin: 5px; border-radius: 10px;">
-      ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
-    </div>
-    <div style="background-color: #FF6F61; padding: 10px; margin: 5px; border-radius: 10px;">
-      ![Lookerstudio Logo](https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white)
-    </div>
+    <a href="https://www.python.org/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://pandas.pydata.org/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+    </a>
+    <a href="https://numpy.org/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+    </a>
+    <a href="https://www.w3schools.com/sql/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" alt="SQL" />
+    </a>
+    <a href="https://looker.com/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white" alt="Lookerstudio" />
+    </a>
   </div>
 </div>
 
