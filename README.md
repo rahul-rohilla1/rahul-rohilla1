@@ -2,9 +2,9 @@
 
 ## About Me
 
-🌍 Madrid, Spain | 📧 rahul.rohilla@student.ie.edu
+📧 Email: rahul.rohilla@student.ie.edu
 
-I'm a dedicated data scientist with a strong background in Data Science and Programming, passionate about leveraging data to make informed decisions. My journey in the world of data has equipped me with a diverse skill set to tackle complex challenges.
+I'm a dedicated data scientist with a strong background in Data Science and Programming. I'm passionate about leveraging data to make informed decisions and solving complex problems.
 
 ## Education
 
@@ -21,6 +21,12 @@ I'm a dedicated data scientist with a strong background in Data Science and Prog
 - 📈 **Time Series Analysis:** Specialized in time series forecasting techniques like SARIMAX.
 - 🌐 **Big Data:** Familiar with Apache Hadoop for handling big data projects.
 - 📈 **Data Visualization:** Capable of creating insightful visualizations using tools like Matplotlib and Seaborn.
+
+## Languages
+
+- 🇬🇧 **English:** Proficient
+- 🇩🇪 **German:** Beginner
+- 🇮🇳 **Hindi:** Native
 
 ## Projects
 
