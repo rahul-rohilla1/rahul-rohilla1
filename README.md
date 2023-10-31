@@ -2,9 +2,9 @@
 
 ## About Me
 
-🌍 Madrid, Spain | 📧 rahul.rohilla@student.ie.edu |
+🌍 Madrid, Spain | 📧 rahul.rohilla@student.ie.edu
 
-Dedicated professional with expertise in data analysis, coaching, and project management. Strong educational background in Data Science and Programming.
+I'm a dedicated data scientist with a strong background in Data Science and Programming, passionate about leveraging data to make informed decisions. My journey in the world of data has equipped me with a diverse skill set to tackle complex challenges.
 
 ## Education
 
@@ -14,22 +14,28 @@ Dedicated professional with expertise in data analysis, coaching, and project ma
 
 ## Skills
 
-- 💻 Python (Pandas, NumPy, Scikit-learn)
-- 📊 Data Analysis, Machine Learning, Dataiku
-- 📈 Intermediate: Apache Hadoop, Microsoft Office (Excel, PowerPoint)
+- 💻 **Programming:** Proficient in Python, with extensive experience in Pandas, NumPy, and Scikit-learn.
+- 📈 **Data Analysis:** Experienced in data preprocessing, feature engineering, and statistical analysis.
+- 📊 **Machine Learning:** Skilled in building predictive models and leveraging libraries such as XGBoost.
+- 🗄️ **Data Manipulation:** Proficient in working with large datasets, data cleaning, and transforming data.
+- 📈 **Time Series Analysis:** Specialized in time series forecasting techniques like SARIMAX.
+- 🌐 **Big Data:** Familiar with Apache Hadoop for handling big data projects.
+- 📈 **Data Visualization:** Capable of creating insightful visualizations using tools like Matplotlib and Seaborn.
 
 ## Projects
 
-- 📊 **Water Consumption Prediction:** Created a prediction model using SARIMAX and XGBoost ensemble to forecast water consumption.
-  
-- 📈 **IEEE CIS Fraud Detection:** Developed a fraud detection model using XGBoost classifier with extensive EDA, correlation analysis, and feature engineering.
+### Water Consumption Prediction
+- **Description:** Developed a time series forecasting model using SARIMAX and XGBoost ensemble to predict water consumption. This project aimed to help optimize resource allocation and improve planning for water distribution.
 
-- 📈 **Spot Price Forecasting:** Built a forecasting model for spot prices using Random Forest and XGBoost.
+### IEEE CIS Fraud Detection
+- **Description:** Created a fraud detection system using XGBoost classifiers, incorporating extensive exploratory data analysis (EDA), correlation analysis, and advanced feature engineering techniques. The model effectively identified fraudulent transactions, enhancing financial security.
+
+### Spot Price Forecasting
+- **Description:** Built a forecasting model for spot prices using a combination of Random Forest and XGBoost algorithms. This project was designed to aid in making informed decisions in energy markets by predicting future spot prices accurately.
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rahul-rohilla)
 - [Email](mailto:rahul.rohilla@student.ie.edu)
-- [Phone](tel:(+34)685433564)
 
 Let's connect and collaborate! 🚀
