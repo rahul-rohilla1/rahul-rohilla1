@@ -2,7 +2,7 @@
 
 ## About Me
 
-🌍 Madrid, Spain | 📧 rahul.rohilla@student.ie.edu | 📞 (+34) 685 433 564
+🌍 Madrid, Spain | 📧 rahul.rohilla@student.ie.edu |
 
 Dedicated professional with expertise in data analysis, coaching, and project management. Strong educational background in Data Science and Programming.
 
@@ -12,28 +12,19 @@ Dedicated professional with expertise in data analysis, coaching, and project ma
 - 🎓 Diploma in Data Science and Programming - Indian Institute of Technology (2021 - 2023).
 - 🎓 Bachelor of Technology in Environmental Engineering - Delhi Technological University (2013 - 2017).
 
-## Experience
-
-- 🚀 Unacademy, India (Aug 2020 - Jan 2023):
-  - Mentored students in Mathematics Olympiad.
-  - Boosted student engagement through online platforms.
-
-- 🚀 Vedantu, India (Sep 2019 - Jul 2020):
-  - Led a team to improve student engagement.
-  - Scaled online teaching operations during COVID-19.
-
-- 🚀 Askiitians, India (Aug 2017 - Aug 2019):
-  - Enhanced mathematics instruction for IIT entrance exam students.
-
 ## Skills
 
-- 💻 Intermediate: Python, SQL, Machine Learning.
-- 📊 Data Analysis, Project Management.
+- 💻 Python (Pandas, NumPy, Scikit-learn)
+- 📊 Data Analysis, Machine Learning, Dataiku
+- 📈 Intermediate: Apache Hadoop, Microsoft Office (Excel, PowerPoint)
 
 ## Projects
 
-- 🏗️ Designed a Waste Water Treatment plant for a hospital.
-- 🌿 Certificate in Foundations of Sustainability from IE Business School.
+- 📊 **Water Consumption Prediction:** Created a prediction model using SARIMAX and XGBoost ensemble to forecast water consumption.
+  
+- 📈 **IEEE CIS Fraud Detection:** Developed a fraud detection model using XGBoost classifier with extensive EDA, correlation analysis, and feature engineering.
+
+- 📈 **Spot Price Forecasting:** Built a forecasting model for spot prices using Random Forest and XGBoost.
 
 ## Connect with Me
 
